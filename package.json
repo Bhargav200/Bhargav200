@@ -1,0 +1,15 @@
+{
+  "name": "bhargav-profile-readme",
+  "version": "1.0.0",
+  "description": "GitHub Profile Readme and interactive preview for Bhargav Ravi Teja",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "generate-hero": "node scripts/generate-agent-hero.mjs",
+    "update-readme": "node scripts/update-readme.mjs"
+  },
+  "keywords": ["github-profile", "readme", "portfolio", "preview"],
+  "author": "Bhargav Ravi Teja",
+  "license": "MIT"
+}
